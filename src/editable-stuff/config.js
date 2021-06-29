@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/siya.png"),
+  imageLink: require("../editable-stuff/siya.jpg"),
   imageSize: 375,
   message:
     "My name is Siya Gumede. I’m a graduate of 2013 from University of KwaZulu Natal with a degree in Computer Science and information Systems. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
