@@ -121,6 +121,7 @@ const skills = {
   ],
 };
 
+
 // GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
