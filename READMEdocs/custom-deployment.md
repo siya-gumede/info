@@ -4,7 +4,7 @@
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/siya-gumede/info.git
    ```
 
 3. Open in editor and edit [src/editable-stuff/configurations.json](./src/editable-stuff/configurations.json) file.
@@ -13,16 +13,16 @@
 6. Change URL in [package.json](./package.json) file:
 
    ```json
-     "homepage": "https://<your-username>.github.io"
+     "homepage": "https://siya-gumede.github.io"
    ```
 
-7. Now, create a new empty repository named \<your-username>.github.io and leave it there.
+7. Now, create a new empty repository named \siya-gumede.github.io and leave it there.
 8. Now you need to go to [pages.js](../pages.js#L3)
    There you must change the 3rd line. As it the the url of your empty repository:
 
    ```js
    const repoURL =
-     "https://github.com/<your-username>/<your-username>.github.io.git";
+     "https://github.com/siya-gumede/siya-gumede.github.io.git";
    ```
 
 9. To deploy website, run:
@@ -35,7 +35,7 @@
 10. Congrats your site is up and running. To see it live, visit:
 
     ```https
-      https://<your-username>.github.io
+      https://siya-gumede.github.io
     ```
 
 Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
