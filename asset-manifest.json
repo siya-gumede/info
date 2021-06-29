@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.956fad23.chunk.css",
-    "main.js": "/static/js/main.9543becb.chunk.js",
-    "main.js.map": "/static/js/main.9543becb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.c6a95f53.chunk.js": "/static/js/2.c6a95f53.chunk.js",
-    "static/js/2.c6a95f53.chunk.js.map": "/static/js/2.c6a95f53.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6b17907eb48f20da4d8a282716269376.js": "/precache-manifest.6b17907eb48f20da4d8a282716269376.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.c6a95f53.chunk.js.LICENSE.txt": "/static/js/2.c6a95f53.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/resume.pdf": "/static/media/resume.a9f4195e.pdf",
-    "static/media/siya.jpg": "/static/media/siya.a2dfbf49.jpg"
+    "main.css": "/info/static/css/main.956fad23.chunk.css",
+    "main.js": "/info/static/js/main.1f740cf4.chunk.js",
+    "main.js.map": "/info/static/js/main.1f740cf4.chunk.js.map",
+    "runtime-main.js": "/info/static/js/runtime-main.ae3b34ad.js",
+    "runtime-main.js.map": "/info/static/js/runtime-main.ae3b34ad.js.map",
+    "static/js/2.c6a95f53.chunk.js": "/info/static/js/2.c6a95f53.chunk.js",
+    "static/js/2.c6a95f53.chunk.js.map": "/info/static/js/2.c6a95f53.chunk.js.map",
+    "index.html": "/info/index.html",
+    "precache-manifest.d351904a04f55b05a490b230a474cb1a.js": "/info/precache-manifest.d351904a04f55b05a490b230a474cb1a.js",
+    "service-worker.js": "/info/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/info/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.c6a95f53.chunk.js.LICENSE.txt": "/info/static/js/2.c6a95f53.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/info/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/info/static/media/resume.a9f4195e.pdf",
+    "static/media/siya.jpg": "/info/static/media/siya.a2dfbf49.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.554504a0.js",
+    "static/js/runtime-main.ae3b34ad.js",
     "static/js/2.c6a95f53.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.9543becb.chunk.js"
+    "static/js/main.1f740cf4.chunk.js"
   ]
 }
