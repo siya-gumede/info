@@ -16,6 +16,7 @@
   </p>
 </p>
 
+<<<<<<< HEAD
 ![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
 [![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
@@ -215,3 +216,5 @@ Novas contribuições e revisões na tradução são muito bem vindas!
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
+=======
+>>>>>>> parent of 6da0214e (Updates)
